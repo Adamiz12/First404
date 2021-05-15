@@ -1,0 +1,50 @@
+body {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  align-content: center;
+}
+
+
+.page {
+  text-align: center;
+}
+.pic {
+
+margin-top: 110px;
+margin-left: 380px;
+margin-right: 380px;
+}
+
+.First { 
+font-size: 120px;
+font-weight: 400;
+line-height: 140px;
+margin-left: 440px;
+margin-right: 440px;
+}
+.Info {
+margin-top: 10px;
+margin-left: 440px;
+margin-right: 440px;
+ 
+transition: opacity .4s;
+opacity: 0; 
+}
+
+.Info:hover {
+opacity: 100;
+
+}
+
+.Footer {
+  text-align: center;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 18px;
+  margin-bottom: 30px;
+  margin-left: 440px;
+  margin-right: 440px;
+  
+    
+  
+}
